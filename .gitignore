@@ -1,0 +1,4 @@
+my-ec2-keypair.pem
+venv/
+*.log
+nohup.out

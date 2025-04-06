@@ -1,0 +1,8 @@
+Daily Report for 2025-03-25
+------------------------------------
+Total records collected: 207050
+Total records collected: 207050
+Minimum pool volume: 1963533.9506559
+Maximum pool volume: 422154143.523203
+Minimum volume: 1642.6997766049
+Maximum volume: 852003658.035071
